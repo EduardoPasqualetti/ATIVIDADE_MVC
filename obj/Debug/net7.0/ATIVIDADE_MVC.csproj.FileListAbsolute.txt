@@ -1,0 +1,15 @@
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\bin\Debug\net7.0\ATIVIDADE_MVC.exe
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\bin\Debug\net7.0\ATIVIDADE_MVC.deps.json
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\bin\Debug\net7.0\ATIVIDADE_MVC.runtimeconfig.json
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\bin\Debug\net7.0\ATIVIDADE_MVC.dll
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\bin\Debug\net7.0\ATIVIDADE_MVC.pdb
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.csproj.AssemblyReference.cache
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.AssemblyInfoInputs.cache
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.AssemblyInfo.cs
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.csproj.CoreCompileInputs.cache
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.dll
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\refint\ATIVIDADE_MVC.dll
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.pdb
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ATIVIDADE_MVC.genruntimeconfig.cache
+C:\Users\49802002810\Desktop\ATIVIDADE_MVC\obj\Debug\net7.0\ref\ATIVIDADE_MVC.dll
